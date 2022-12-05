@@ -1,0 +1,14 @@
+{
+  "name": "dianesrun",
+  "description": "T1 Case Problem 3: Diane's Run",
+  "version": "1.0.0",
+  "main": "index.html",
+  "license": "MIT",
+  "author": "Hesbon Osoro <hesbonosoro1@gmail.com>",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  }
+}
